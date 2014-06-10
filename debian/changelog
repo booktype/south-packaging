@@ -1,0 +1,73 @@
+python-django-south (0.8.4-1.1) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * New upstream release. (Closes: #723174)
+  * Add Breaks: python-django-markupfield (<< 1.0.1). (Closes: #617489)
+  * Updated standards version.
+
+ -- Daniel James <daniel@64studio.com>  Tue, 10 Jun 2014 14:55:57 +0100
+
+python-django-south (0.7.5-1.1) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Remove extraneous debdiff files.
+  * Resolve compatibility issues with Django 1.6. (Closes: #729412)
+
+ -- Luke Faraone <lfaraone@debian.org>  Thu, 07 Nov 2013 17:42:57 -0500
+
+python-django-south (0.7.5-1) unstable; urgency=low
+
+  * New upstream release
+
+ -- David Watson <dwatson@debian.org>  Wed, 20 Jun 2012 15:27:17 +0100
+
+python-django-south (0.7.4-1) unstable; urgency=low
+
+  * New upstream release
+  * Updated standards version
+
+ -- David Watson <dwatson@debian.org>  Thu, 26 Apr 2012 15:06:19 +0100
+
+python-django-south (0.7.3-1) unstable; urgency=low
+
+  * New upstream release
+  * Updated standards version
+
+ -- David Watson <david@kutoken.com>  Wed, 26 Jan 2011 09:53:40 +0000
+
+python-django-south (0.7-1) unstable; urgency=low
+
+  * New upstream release. (Closes: #576502)
+
+ -- David Watson <david@kutoken.com>  Thu, 29 Apr 2010 20:13:56 +0100
+
+python-django-south (0.7~rc1-1) experimental; urgency=low
+
+  * New upstream release
+  * Updated Standards version, no changes needed
+
+ -- David Watson <david@kutoken.com>  Mon, 22 Mar 2010 11:19:30 +0000
+
+python-django-south (0.6.2-1) unstable; urgency=low
+
+  * New upstream release
+
+ -- David Watson <david@kutoken.com>  Fri, 05 Feb 2010 15:09:59 +0000
+
+python-django-south (0.6-1) unstable; urgency=low
+
+  * New upstream release
+
+ -- David Watson <david@kutoken.com>  Thu, 20 Aug 2009 14:13:41 +0100
+
+python-django-south (0.5-2) unstable; urgency=low
+
+  * Add python-setuptools to Build-Depends (Closes: #527821)
+
+ -- David Watson <david@kutoken.com>  Fri, 08 May 2009 22:43:41 +0100
+
+python-django-south (0.5-1) unstable; urgency=low
+
+  * Initial release (Closes: #526348, #527328)
+
+ -- David Watson <david@kutoken.com>  Thu, 02 May 2009 09:56:35 +0100
